@@ -1,4 +1,4 @@
 madeleineforbes.co.uk
 =====================
 
-My website, updated Friday 24th MAy
+My website, updated Friday 24th May.
