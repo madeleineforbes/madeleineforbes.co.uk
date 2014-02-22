@@ -6,13 +6,16 @@
 
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
-  font-family: sans-serif;
+  font-family: 'Vollkorn', serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 body {
   margin: 0;
 }
+body 
+{ color:#5a7c80;}
+{ background-color:#fff;}
 article,
 aside,
 details,
@@ -20,6 +23,9 @@ figcaption,
 figure,
 footer,
 header,
+
+{ color:#5a7c80;}
+
 hgroup,
 main,
 nav,
@@ -273,10 +279,10 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Vollkorn', serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333;
+  color: #5a7c80;
   background-color: #fff;
 }
 input,
@@ -690,7 +696,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-family: 'Vollkorn', serif;
 }
 code {
   padding: 2px 4px;
@@ -703,7 +709,7 @@ code {
 kbd {
   padding: 2px 4px;
   font-size: 90%;
-  color: #fff;
+  color: #5a7c80;
   background-color: #333;
   border-radius: 3px;
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .25);
@@ -3512,7 +3518,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a:focus {
   color: #555;
   cursor: default;
-  background-color: #fff;
+  background-color: #5a7c80;
   border: 1px solid #ddd;
   border-bottom-color: transparent;
 }
@@ -3644,6 +3650,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   min-height: 50px;
   margin-bottom: 20px;
   border: 1px solid transparent;
+  color: #5a7c80;
 }
 @media (min-width: 768px) {
   .navbar {
@@ -4632,7 +4639,7 @@ a.list-group-item {
   color: #555;
 }
 a.list-group-item .list-group-item-heading {
-  color: #333;
+  color: #52686A;
 }
 a.list-group-item:hover,
 a.list-group-item:focus {
@@ -5517,7 +5524,7 @@ button.close {
   height: 20px;
   margin-top: -10px;
   margin-left: -10px;
-  font-family: serif;
+  font-family: 'Vollkorn', serif;
 }
 .carousel-control .icon-prev:before {
   content: '\2039';
